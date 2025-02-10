@@ -2,7 +2,7 @@
 # Hotel Reservation Dashboard
  
 ## Objective:
-To address these challenges, this project aims to develop a Hotel Reservation Dashboard using Microsoft Power BI. The dashboard will:
+This project aims to develop a Hotel Reservation Dashboard using Microsoft Power BI. The dashboard will:
 
 1. Provide real-time, interactive visualizations of reservation data.
 2. Consolidate data from multiple sources into a single, unified platform.

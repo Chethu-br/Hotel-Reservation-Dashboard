@@ -1,8 +1,8 @@
 
 # Hotel Reservation Dashboard
 
-## Project Brief
-Objective:
+## Project 
+## Objective:
 To address these challenges, this project aims to develop a Hotel Reservation Dashboard using Microsoft Power BI. The dashboard will:
 
 1. Provide real-time, interactive visualizations of reservation data.
@@ -18,8 +18,7 @@ Managing hotel reservations efficiently is critical for optimizing occupancy rat
 2. Power Query: For data cleaning and transformation.
 3. DAX (Data Analysis Expressions): For advanced calculations and measures.
 
-## Data Sources
-Key Features:
+## Key Features:
 1. Real-Time Data Visualization
 Interactive Dashboards: Real-time visualizations of reservation data, including bookings, cancellations, and occupancy rates.
 Dynamic Charts and Graphs: Use of bar charts, line charts, pie charts, and tables to represent key metrics like revenue, room occupancy, and customer demographics.
